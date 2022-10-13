@@ -1,6 +1,7 @@
 ### OLa eu sou o João Batista 👋
 
 - 🌱 Estou cursando Engenharia da Computação no 4 periodo e estudado programação Web
+- 
 <div align="center">
   <a href="https://github.com/Jbrr2021">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jbrr2021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

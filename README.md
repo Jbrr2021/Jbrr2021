@@ -27,4 +27,11 @@
   
   ![Snake animation](https://github.com/Jbrr2021/Jbrr2021/blob/output/github-contribution-grid-snake.svg)
   
+  ##
+  
+   <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jbrr2021}/count.svg" /></p> 
+<br></div>
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=140&section=footer"/>

@@ -14,19 +14,22 @@
   <a href="https://www.datacamp.com/portfolio/joaoribeirocontato" target="_blank">
     <img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black">
   </a>
+  <a href="https://wa.me/5521998491864" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 </div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Engenharia da Computação** no Centro Universitário Celso Lisboa, com foco em desenvolvimento de carreira nas áreas de **Dados, Python, Cloud Computing, Inteligência Artificial e Engenharia de Dados**.
+Sou estudante de **Engenharia da Computação** no **Centro Universitário Celso Lisboa**, construindo minha trajetória na área de tecnologia com foco em **Python, Dados, Inteligência Artificial, Cloud Computing e Engenharia de Dados**.
 
-Atualmente venho construindo uma base prática por meio de cursos, projetos acadêmicos e projetos pessoais envolvendo **Python, SQL, Pandas, Power BI, Google Cloud, Git/GitHub, análise de dados e automação de processos**.
+Venho desenvolvendo projetos práticos para fortalecer meu portfólio, aplicando conceitos de **análise de dados, automação, lógica de programação, SQL, visualização de dados, Git/GitHub e soluções com IA**.
 
-Tenho experiência profissional anterior com **organização de dados, controle de informações, planilhas, sistemas internos, relatórios, atendimento a áreas internas e melhoria de processos**, o que fortalece minha transição para tecnologia com uma visão prática de negócio, operação e qualidade da informação.
+Também trago uma vivência profissional com **organização de informações, controle de dados, relatórios, planilhas, sistemas internos, apoio a áreas operacionais e melhoria de processos**, o que fortalece minha atuação com uma visão prática de negócio, qualidade da informação e resolução de problemas.
 
-Busco oportunidades de entrada como:
+Atualmente, busco oportunidades de entrada e crescimento nas áreas de:
 
 - Estágio em TI
 - Estágio em Dados
@@ -62,12 +65,26 @@ Busco oportunidades de entrada como:
 - Python para análise de dados e automação
 - SQL e bancos de dados relacionais
 - Pandas e tratamento de dados
-- Power BI e visualização de dados
+- Visualização de dados e storytelling analítico
+- Power BI
 - Google Cloud
 - Fundamentos de Engenharia de Dados
 - ETL, pipelines de dados e qualidade da informação
 - IA Generativa aplicada a projetos reais
-- Testes de software e lógica de programação
+- Lógica de programação e desenvolvimento web
+
+---
+
+## 🧠 O que venho desenvolvendo
+
+Atualmente, venho construindo projetos práticos com foco em:
+
+- análise exploratória de dados com Python
+- tratamento e validação de bases públicas
+- automação e organização de dados
+- projetos com IA aplicada a problemas reais
+- desenvolvimento de soluções com foco em aprendizado contínuo
+- construção de portfólio voltado para oportunidades em tecnologia
 
 ---
 
@@ -83,31 +100,41 @@ Busco oportunidades de entrada como:
 - [Análise de Vício em Redes Sociais e Produtividade](https://github.com/Jbrr2021/Python-Kaggle-V-cio-em-redes-sociais)  
   Projeto de análise exploratória de dados com base pública do Kaggle, utilizando Python, Pandas, visualizações e interpretação de padrões relacionados ao uso de redes sociais e produtividade.
 
+- [Análise de E-commerce Multicanal com Métricas Comportamentais](https://github.com/Jbrr2021/python-ecommerce-multichannel-analysis)  
+  Projeto de análise exploratória de dados com Python, focado em receita, churn, CLV, CLV/CAC e eficiência por canal, com validação da qualidade dos dados antes da interpretação dos resultados.
+
+### 📰 Projeto em desenvolvimento com IA
+
+- [Redaro AI - Portal de Notícias](https://github.com/Jbrr2021/Redaro-AI)  
+  Projeto em desenvolvimento com foco em IA aplicada à geração de conteúdo, pensado para transformar fatos e informações em textos jornalísticos de forma mais estruturada. Esse projeto também representa minha evolução prática com desenvolvimento, integração com IA e resolução de problemas reais durante a construção da aplicação.
+
 ### 📁 Portfólio em evolução
 
 - Projetos com Python
 - Estudos de SQL
-- Dashboards em Power BI
+- Dashboards e visualização de dados
 - Análises exploratórias de dados
 - Estudos de Google Cloud
 - Projetos acadêmicos de Engenharia da Computação
+- Projetos com IA aplicada
 
 ---
 
 ## 🎯 Objetivo profissional
 
-Estou em busca de uma oportunidade para aplicar meus conhecimentos em projetos reais de tecnologia, especialmente nas áreas de **Dados, Engenharia de Dados, Python, Cloud, IA, Suporte Técnico e Desenvolvimento Júnior**.
+Estou construindo meu portfólio com projetos práticos em **Dados, Python e IA**, buscando uma oportunidade para aplicar meus conhecimentos em projetos reais de tecnologia.
 
 Meu objetivo é crescer tecnicamente, contribuir com soluções úteis e continuar evoluindo por meio de prática, estudo contínuo e colaboração com equipes de tecnologia.
 
----
+Tenho interesse especial em atuar nas áreas de:
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jbrr2021&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jbrr2021&layout=compact&langs_count=8&theme=radical"/>
-</div>
+- Dados
+- Engenharia de Dados
+- Python
+- Cloud
+- Inteligência Artificial
+- Suporte Técnico
+- Desenvolvimento Júnior
 
 ---
 
@@ -117,7 +144,9 @@ Meu objetivo é crescer tecnicamente, contribuir com soluções úteis e continu
 
 📍 Rio de Janeiro - RJ, Brasil  
 
-📧 joaoribeiro-contato@outlook.com  
+📧 [joaoribeiro-contato@outlook.com](mailto:joaoribeiro-contato@outlook.com)  
+
+📱 [WhatsApp: +55 21 99849-1864](https://wa.me/5521998491864)  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jbrr-dev/)  
 
